@@ -4,8 +4,6 @@ import java.io.Serializable;
 import java.util.Date;
 import java.util.Objects;
 
-import model.entities.Department;
-
 public class Seller implements Serializable {
 	
 	private static final long serialVersionUID = 1L;
